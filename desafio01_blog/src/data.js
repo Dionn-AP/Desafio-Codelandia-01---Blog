@@ -3,6 +3,7 @@ import IconHeart from './assests/icon-heart.svg';
 const data = [
     {
         id: 1,
+        like: false,
         date: '02 de jul, 2021',
         image: IconHeart,
         title: 'Agora é oficial: o Windows 11 está vindo',
@@ -10,6 +11,7 @@ const data = [
     },
     {
         id: 2,
+        like: false,
         date: '02 de jul, 2021',
         image: IconHeart,
         title: 'Tim Berners-Lee vai leiloar código-fonte da web',
@@ -17,6 +19,7 @@ const data = [
     },
     {
         id: 3,
+        like: false,
         date: '02 de jul, 2021',
         image: IconHeart,
         title: 'Tem Firefox novo no pedaço e você vai querer migrar',
@@ -24,6 +27,7 @@ const data = [
     },
     {
         id: 4,
+        like: false,
         date: '02 de jul, 2021',
         image: IconHeart,
         title: 'John McAfee, criador do antivírus McAfee, morre',

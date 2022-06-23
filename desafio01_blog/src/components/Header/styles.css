@@ -37,6 +37,11 @@ header {
     position: absolute;
     left: 2rem;
     top: 1.5rem;
+    cursor: pointer;
+}
+
+.input-blog img:active {
+    transform: scale(1.15);
 }
 
 .input-blog input {
