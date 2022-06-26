@@ -5,7 +5,7 @@
 <ul>
   <a href="#sobre"><li>Sobre</li></a>
   <a href="#executar"><li>Como executar o projeto</li></a>
-  <li>Layout</li>
+  <a href="#layout"><li>Layout</li></a>
   <ul>
     <a href="#desktop"><li>Desktop</li></a>
     <a href="#mobile"><li>Mobile</li></a>
@@ -30,4 +30,6 @@
 
 <h2 id="mobile">Mobile</h2>
 
-![layout mobile](https://user-images.githubusercontent.com/93920766/175800390-ff35fb76-d619-4aaa-9cbf-b3ab63fd367b.PNG)
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<img  src="" />
+</p>
