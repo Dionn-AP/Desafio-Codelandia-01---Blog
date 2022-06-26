@@ -10,7 +10,7 @@
     <a href="#desktop"><li>Desktop</li></a>
     <a href="#mobile"><li>Mobile</li></a>
   </ul>
-  <li>Tecnologias usadas</li>
+  <a href="#tecnologias"><li>Tecnologias usadas</li></a>
   <li>Autor</li>
 </ul>
 
@@ -33,3 +33,12 @@
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 <img alt="mobile image site" src="https://github.com/Dionn-AP/Desafio-Codelandia-01---Blog/blob/master/desafio01_blog/src/assests/layout%20mobile.PNG" />
 </p>
+
+###
+<h1 id="tecnologias">Tecnologias usadas</h1>
+
+Para a construção desse projeto/desafio foram utilizadas as seguintes ferramentas de desenvolvimento:
+
+* [React](https://reactjs.org/)
+
+* [Scrollreveal](https://scrollrevealjs.org/api/reveal.html)
