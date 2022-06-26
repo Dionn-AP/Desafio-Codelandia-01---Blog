@@ -31,5 +31,5 @@
 <h2 id="mobile">Mobile</h2>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-<img  src="" />
+
 </p>
