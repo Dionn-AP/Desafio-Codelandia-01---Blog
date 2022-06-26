@@ -4,20 +4,22 @@
 <h1>Tabela de conteúdos</h1>
 <ul>
   <a href="#sobre"><li>Sobre</li></a>
-  <a href="#executar"><li>Como executar o projeto</li></a>
   <a href="#layout"><li>Layout</li></a>
   <ul>
     <a href="#desktop"><li>Desktop</li></a>
     <a href="#mobile"><li>Mobile</li></a>
   </ul>
+  <a href="#executar"><li>Como executar o projeto</li></a>
   <a href="#tecnologias"><li>Tecnologias usadas</li></a>
-  <li>Autor</li>
+  <a href="autor"><li>Autor</li></a>
 </ul>
 
 <h1 id="#sobre">Sobre</h1>
 <p>Esse é um projeto desenvolvido por <a href="https://github.com/iuricode">Iuri Silva</a>, disponibilizado para acesso através da sua comunidade chamada <a href="https://discord.gg/wNCWTVuxyz">Codelandia</a>. Uma página de blog simples mas onde podemos por em prática os conceitos de componentização e estilização por styled components.</p>
 
 <h1 id="executar">Como executar o projeto</h1>
+
+```bash
 
 # Clone este repositório
 $ git clone git@github.com:Dionn-AP/Desafio-Codelandia-01---Blog.git
@@ -40,6 +42,8 @@ ou
 $ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
 
 
 <h1 id="#layout">Layout</h1>
@@ -64,4 +68,7 @@ Para a construção desse projeto/desafio foram utilizadas as seguintes ferramen
 
 * [Scrollreveal](https://scrollrevealjs.org/api/reveal.html)
 
+<h1 id="autor">Autor</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Dionnatan_Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionnatan-alves-pereira/)](https://www.linkedin.com/in/dionnatan-alves-pereira/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:dionn_a.p@hotmail.com)](mailto:dionn_a.p@hotmail.com)
