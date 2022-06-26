@@ -19,6 +19,28 @@
 
 <h1 id="executar">Como executar o projeto</h1>
 
+# Clone este repositório
+$ git clone git@github.com:askagi/codilandia-blog.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd codilandia-blog
+
+# Instale as dependências
+$ npm install
+
+ou
+
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+ou
+
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
 
 <h1 id="#layout">Layout</h1>
 <p>Todo o layout da aplicação está disponível no Figma <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1">Desafio 1 - Blog.</a></p>
@@ -27,11 +49,10 @@
 
 ![layout desktop](https://user-images.githubusercontent.com/93920766/175800267-2c8f6ea2-8145-4183-879c-f7b056502c7b.PNG)
 
-
 <h2 id="mobile">Mobile</h2>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-<img alt="mobile image site" src="https://github.com/Dionn-AP/Desafio-Codelandia-01---Blog/blob/master/desafio01_blog/src/assests/layout%20mobile.PNG" />
+  <img alt="mobile image site" src="https://github.com/Dionn-AP/Desafio-Codelandia-01---Blog/blob/master/desafio01_blog/src/assests/layout%20mobile.PNG" />
 </p>
 
 ###
@@ -42,3 +63,5 @@ Para a construção desse projeto/desafio foram utilizadas as seguintes ferramen
 * [React](https://reactjs.org/)
 
 * [Scrollreveal](https://scrollrevealjs.org/api/reveal.html)
+
+
