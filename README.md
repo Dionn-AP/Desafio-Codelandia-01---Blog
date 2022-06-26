@@ -20,7 +20,7 @@
 <h1 id="executar">Como executar o projeto</h1>
 
 # Clone este repositório
-$ git clone git@github.com:askagi/codilandia-blog.git
+$ git clone git@github.com:Dionn-AP/Desafio-Codelandia-01---Blog.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd codilandia-blog
