@@ -19,6 +19,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   -webkit-flow-into: 1.6rem;
+  font-size: 1.6rem;
 }
 
 code {
@@ -29,10 +30,9 @@ code {
 .container-main {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   flex-direction: column;
   position: relative;
   height: auto;
-  width: 100%;
-  
+  min-width: 100vw;
 }

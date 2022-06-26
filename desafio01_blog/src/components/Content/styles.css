@@ -76,3 +76,12 @@
     color: #717171;
     margin-top: 0.8rem;
 }
+
+@media (max-width: 540px) {
+    .container-content {
+        padding-top: 6rem;
+    }
+    .box-content {
+      width: calc(100% - 10%);  
+    }
+}
