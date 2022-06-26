@@ -70,5 +70,10 @@ Para a construção desse projeto/desafio foram utilizadas as seguintes ferramen
 
 <h1 id="autor">Autor</h1>
 
+<a href="https://github.com/Dionn-AP">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93920766?s=96&v=4" width="100px;" alt="profile-github"/>
+</a>
+<p>Feito por <strong>Dionnatan Alves Pereira</strong></p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Dionnatan_Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionnatan-alves-pereira/)](https://www.linkedin.com/in/dionnatan-alves-pereira/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:dionn_a.p@hotmail.com)](mailto:dionn_a.p@hotmail.com)
