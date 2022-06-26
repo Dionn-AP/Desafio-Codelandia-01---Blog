@@ -31,5 +31,5 @@
 <h2 id="mobile">Mobile</h2>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-
+<img alt="mobile image site" src="https://github.com/Dionn-AP/Desafio-Codelandia-01---Blog/blob/master/desafio01_blog/src/assests/layout%20mobile.PNG" />
 </p>
